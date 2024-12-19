@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "dash.cloudflare.com",
+        "cn.bing.com",
+        "login.live.com",
+        "www.gstatic.com",
+        "input.frontrics.site",
+        "my.ex-markets.markets",
+        "api2.amplitude.com",
+        "api2.lab.amplitude.com",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "pp.enskk.com",
+        "api.ipify.org"
+      ],
+      "domain_suffix": [
+        "microsoft.com",
+        "bing.net",
+        "freelancer.com",
+        "windowsupdate.com",
+        "proc-gw.com",
+        "vscode-cdn.net"
+      ],
+      "domain_keyword": [
+        "exness",
+        "ex-markets"
+      ]
+    }
+  ]
+}

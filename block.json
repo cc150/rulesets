@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "play.google.com"
+      ],
+      "domain_suffix": [],
+      "domain_keyword": [
+      ]
+    }
+  ]
+}
